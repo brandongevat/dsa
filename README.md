@@ -9,6 +9,8 @@ Basic data structures and algorithms in the following languages:
     - [ ] Circular Linked List
     - [ ] Doubly Circular Linked List
   - [ ] Stacks
+    - [ ] Array Implementation
+    - [ ] Linked List Implementation
   - [ ] Trees
   - [ ] Graphs
   - [ ] Hashtable
