@@ -4,12 +4,12 @@ Basic data structures and algorithms in the following languages:
 
 - Python
   - [ ] Linked Lists
-    - [ ] Singularly Linked List
+    - [x] Singularly Linked List
     - [ ] Doubly Linked List
     - [ ] Circular Linked List
     - [ ] Doubly Circular Linked List
   - [ ] Stacks
-    - [ ] Array Implementation
+    - [x] Array Implementation
     - [ ] Linked List Implementation
   - [ ] Trees
   - [ ] Graphs
